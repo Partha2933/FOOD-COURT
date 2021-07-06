@@ -12,6 +12,9 @@ h1{
 h2{
     font-size: 28px;
 }
+p{
+    text-align: justify;
+}
 .color{
     color:indianred;
 }
@@ -62,7 +65,7 @@ h2{
   
     border-radius: 10px;
     box-shadow: 10px 10px 40px grey ;
-    border: 5PX SOLID gray;
+    border: 15px solid rgb(red, green, blue);
     
 }
 #move{
@@ -72,4 +75,14 @@ h2{
 
     border-radius: 10px;
 }
+#back{
+    background-color: gray;
+}
+#span{
+    color: palegreen;
+}
+.last-design{
+    text-align: center;
+}
+
 
