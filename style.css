@@ -6,13 +6,16 @@ h1{
     color: aqua;
     
 }
+#style{
+    color: mediumslateblue;
+}
 h2{
     font-size: 28px;
 }
 .color{
     color:indianred;
 }
-section{
+.FLEXIBLE{
     display: flex;
 }
 .width{
@@ -34,6 +37,39 @@ section{
     
 }
 .background{
-    background-image: url("Frame b.jpg");
+    background-image: url("Frame d.jpg");
     background-position:right ;
+  
 }
+#side{
+    padding-right: 30px;
+}
+.ALIGN{
+    text-align: center;
+    color: lightcoral;
+}
+#center{
+    text-align: center;
+}
+.design{
+    color: maroon;
+}
+.shadow-box{
+    width: 30%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: 20px;
+  
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey ;
+    border: 5PX SOLID gray;
+    
+}
+#move{
+    padding-right: 20px;
+}
+.radias{
+
+    border-radius: 10px;
+}
+
